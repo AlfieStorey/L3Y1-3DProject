@@ -457,6 +457,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: PlayerContainer
       objectReference: {fileID: 0}
+    - target: {fileID: 1905473344586020583, guid: cf0096ba41564404dbdf2ff10c8643ab,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.217
+      objectReference: {fileID: 0}
+    - target: {fileID: 1905473344586020583, guid: cf0096ba41564404dbdf2ff10c8643ab,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.745
+      objectReference: {fileID: 0}
     - target: {fileID: 7588663301793088490, guid: cf0096ba41564404dbdf2ff10c8643ab,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -938,7 +948,7 @@ SphereCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Radius: 2.97
+  m_Radius: 6.56
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!4 &1927484579
 Transform:
