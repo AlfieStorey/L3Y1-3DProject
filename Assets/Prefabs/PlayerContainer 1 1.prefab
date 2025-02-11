@@ -10566,7 +10566,7 @@ MonoBehaviour:
   reverseAccel: 4
   maxSpeed: 15
   turnStrength: 180
-  jumpHeight: 60
+  jumpHeight: 43.3
   gravityForce: 10
   dragOnGround: 5
   whatisGround:
